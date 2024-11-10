@@ -3,7 +3,7 @@
 # 모든 변경사항을 커밋하고 푸시하는 타깃
 commit:
 	git add .
-	git commit -m "자동 커밋 메시지"
+	git commit -m "auto message"
 	git push
 
 # 특정 메시지를 입력할 수 있는 커밋 및 푸시 타깃
