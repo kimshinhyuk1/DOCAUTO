@@ -1,5 +1,5 @@
 # 가상 환경 폴더 및 임시 파일 무시
-.myenv
+.env
 myenv/
 *.pyc
 __pycache__/
